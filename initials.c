@@ -16,7 +16,7 @@ int main(void)
     
     for (int i = 0, n = strlen(name); i < n; i++)
     {
-        
+       
     //If statement nested in a loop
         if(name[i] == ' ' && name[i+1] != '\0')
         {
