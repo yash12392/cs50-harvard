@@ -13,6 +13,7 @@ int main(void)
         printf("Please choose a number from 0 to 23: ");
         height = GetInt();
     }
+    
     while ((height < 0) || (height > 23));
 
     for (all_row = 1; all_row <= height; all_row++) 
