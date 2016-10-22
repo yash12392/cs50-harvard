@@ -13,5 +13,4 @@ int main(void)
     
     //Printing the output
     printf("bottles: %i \n", y);
-    
 }
