@@ -54,5 +54,4 @@ int main(void)
     coin_count = quarter_count + dime_count + nickel_count + pennies_count;
    
    printf("%i",coin_count);
-
 }
